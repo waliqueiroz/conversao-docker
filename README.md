@@ -2,7 +2,7 @@
 
 ## Estrutura do projeto entregue neste repositório
 **[Docker compose](https://docs.docker.com/compose/)** de 3 conteineres contendo:
-- servidor [nginx](https://www.nginx.com/) rodando nas portas **8000 (API)** e **8080 (frontend)**.
+- Servidor [nginx](https://www.nginx.com/) rodando nas portas **8000 (API)** e **8080 (frontend)**.
 - [php-fpm](https://www.php.net/manual/en/install.fpm.php) v. `7.1.9` na porta **9000**.
 - [postgres](https://www.postgresql.org/) na porta **5432**.
 
